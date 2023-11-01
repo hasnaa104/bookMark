@@ -1,0 +1,12 @@
+.container{
+    background-color: #EEE;
+}
+.my-5{
+    color: #AAA;
+}
+.m-auto{
+    color: black;
+}
+.btn:hover{
+    box-shadow: 5px 5px 5px black;
+}
